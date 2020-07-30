@@ -14,9 +14,9 @@ We demonstrate the usability of our system on several animation editing use case
 
 ## Data Avalaible
 
-The database has been created using the [*3-D Audio-Visual Corpus of Affective Communication*](https://data.vision.ee.ethz.ch/cvl/datasets/b3dac2.en.html)
+<p align="justify"> The database has been created using the *[3-D Audio-Visual Corpus of Affective Communication]*(https://data.vision.ee.ethz.ch/cvl/datasets/b3dac2.en.html)
 can be obtained upon request, for research purposes only.
-To obtain the data, please send a mail at research (at) dynamixyz.com providing your name, your organization and your research interest.
+To obtain the data, please send a mail at research (at) dynamixyz.com providing your name, your organization and your research interest. </p>
 
 ## Referencing the database in your Work
 
