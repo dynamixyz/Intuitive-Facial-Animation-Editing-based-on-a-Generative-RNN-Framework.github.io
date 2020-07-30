@@ -1,3 +1,35 @@
-theme: jekyll-theme-slate
-url                      : https://facial-animation-data.github.io
-repository               : "elo-nsrb/facial-animation-data.github.io"
+#url                      : https://facial-animation-data.github.io
+#repository               : "elo-nsrb/facial-animation-data.github.io"
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#permalink: /:title/
+#
+#title: Intuitive Facial Animation Editing based on a Generative RNN Framework
+#description: Animation Data
+
+
+#additional stuff
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+
