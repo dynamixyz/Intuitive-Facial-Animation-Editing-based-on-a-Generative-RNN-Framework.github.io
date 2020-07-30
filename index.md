@@ -1,6 +1,6 @@
 # Intuitive Facial Animation Editing based on a Generative RNN Framework"
 
-##Abstract
+**Abstract**
 
  For the last decades, the concern of producing convincing facial animation has garnered great
 interest, that has only been accelerating with the recent explosion of 3D content in both entertainment and professional activities. %concern 
@@ -15,7 +15,7 @@ We demonstrate the usability of our system on several animation editing use case
 
 # Data Avalaible
 
-The database has been created using the *3-D Audio-Visual Corpus of Affective Communication* (https://data.vision.ee.ethz.ch/cvl/datasets/b3dac2.en.html)
+The database has been created using the [*3-D Audio-Visual Corpus of Affective Communication*](https://data.vision.ee.ethz.ch/cvl/datasets/b3dac2.en.html)
 can be obtained upon request, for research purposes only.
 To obtain the data, please send a mail at research (at) dynamixyz.com providing your name, your organization and your research interest.
 
