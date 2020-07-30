@@ -1,3 +1,6 @@
+<p align="center"> 
+<img src="./data/front_page.png" width="500">
+</p>
 
 **Abstract**
 
