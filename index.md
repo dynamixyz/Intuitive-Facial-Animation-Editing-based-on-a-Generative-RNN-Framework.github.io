@@ -13,7 +13,7 @@ The database has been created using the [3-D Audio-Visual Corpus of Affective Co
 To obtain the data, please send a mail at **research** (at) **dynamixyz.com** providing your name, your organization and your research interest.
 
 
-**Referencing the database in your Work**
+**Referencing the database in your work**
 
 - "Intuitive Facial Animation Editing based on a Generative RNN Framework" 
 
