@@ -1,5 +1,5 @@
 url                      : https://facial-animation-data.github.io
-#repository               : "elo-nsrb/facial-animation-data.github.io"
+repository_url               : "facial-animation-data.github.io"
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #permalink: /:title/
 #
