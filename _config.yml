@@ -8,12 +8,6 @@ title: Intuitive Facial Animation Editing based on a Generative RNN Framework
 #description: Animation Data
 
 
-#additional stuff
-exclude:
-  - Gemfile
-  - Gemfile.lock
-
-
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -25,14 +19,7 @@ relative_links:
   collections: true
 
 include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+  - index.md
 
 
 theme: jekyll-theme-slate
