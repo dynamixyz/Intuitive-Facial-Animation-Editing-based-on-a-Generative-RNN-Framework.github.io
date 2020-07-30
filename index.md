@@ -1,7 +1,7 @@
 
 # Abstract
 
-<center> For the last decades, the concern of producing convincing facial animation has garnered great
+<p align="justify"> For the last decades, the concern of producing convincing facial animation has garnered great
 interest, that has only been accelerating with the recent explosion of 3D content in both entertainment and professional activities.
 The use of motion capture and retargeting has arguably become the dominant solution to address this demand.
 Yet, despite high level of quality and automation performance-based animation pipelines still require
@@ -10,7 +10,7 @@ In this paper, we look to leverage machine learning to make facial animation edi
 Inspired by recent *image inpainting* methods, we design a generative recurrent neural network that generates realistic motion into designated segments of an existing facial animation, optionally following user-provided guiding constraints.
 Our system handles different supervised or unsupervised editing scenarios such as motion filling during occlusions,
 expression corrections, semantic content modifications, and noise filtering.
-We demonstrate the usability of our system on several animation editing use cases. </center>
+We demonstrate the usability of our system on several animation editing use cases. </p>
 
 ## Data Avalaible
 
