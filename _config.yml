@@ -1,4 +1,4 @@
-url                      : https://facial-animation-data.github.io
+#url                      : https://facial-animation-data.github.io
 github:
   zip_url: "http://facial-animation-data.github.io"
   is_project_page: false
