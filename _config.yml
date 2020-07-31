@@ -1,6 +1,6 @@
 url                      : https://facial-animation-data.github.io
 github:
-  repository_url: "http://facial-animation-data.github.io"
+  zip_url: "http://facial-animation-data.github.io"
   is_project_page: false
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #permalink: /:title/
