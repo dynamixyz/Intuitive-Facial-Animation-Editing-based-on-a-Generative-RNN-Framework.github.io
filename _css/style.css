@@ -1,0 +1,63 @@
+*{
+    font-family: Lato, sans-serif;
+    font-style: normal;
+}
+body{
+    background-color: #eef1f6; 
+    font-family: Lato, sans-serif;
+    background-color: #ffffff;
+    font-size: 1.2rem;
+
+   }
+   
+.section{
+       text-align:center justify;
+       max-width: 800;
+       font-family: Lato, sans-serif;
+        font-weight: 300;
+        width:75%;
+        margin: auto;
+           }
+
+.teaser{text-align: center;}
+.fig-first-page { text-indent:5px;}
+
+ul{
+    list-style-type: none;
+    text-align: left;
+padding:0px}
+
+/*
+ * comment
+ */
+.paper{
+
+    width:75%;
+    margin: auto;
+}
+.title {
+    font-size: 2.5rem;
+    font-weight: 500;
+    letter-spacing: .4rem;
+    padding: 50px 0 30px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+.subtitle {
+    text-align: left;
+    letter-spacing: .2rem;
+  }
+
+article {
+    font-size: 1.1rem;
+    margin: auto;
+    max-width: 800px;
+}
+    
+p {
+      text-indent: 0px;
+      text-align: justify;
+      text-justify:auto;
+     /* inter-word;*/
+    }
+ 

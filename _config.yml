@@ -7,19 +7,3 @@ github:
 title: Intuitive Facial Animation Editing based on a Generative RNN Framework
 #description: Animation Data
 
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-relative-links
-
-
-relative_links:
-  enabled: true
-  collections: true
-
-include:
-  - index.md
-
-
-theme: jekyll-theme-slate
