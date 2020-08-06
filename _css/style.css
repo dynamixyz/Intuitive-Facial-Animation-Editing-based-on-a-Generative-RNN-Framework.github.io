@@ -10,6 +10,27 @@ body{
 
    }
    
+
+ul{
+    list-style-type: none;
+    text-align: left;
+    padding:0px}
+article {
+    font-size: 1.1rem;
+    margin: auto;
+    max-width: 800px;
+}
+    
+p {
+      text-indent: 0px;
+      text-align: justify;
+      text-justify:auto;
+     /* inter-word;*/
+    }
+
+/*
+ * comment
+ */
 .section{
        text-align:center justify;
        max-width: 800;
@@ -21,15 +42,6 @@ body{
 
 .teaser{text-align: center;}
 .fig-first-page { text-indent:5px;}
-
-ul{
-    list-style-type: none;
-    text-align: left;
-    padding:0px}
-
-/*
- * comment
- */
 .paper{
 
     width:75%;
@@ -48,17 +60,5 @@ ul{
     letter-spacing: .2rem;
   }
 
-article {
-    font-size: 1.1rem;
-    margin: auto;
-    max-width: 800px;
-}
-    
-p {
-      text-indent: 0px;
-      text-align: justify;
-      text-justify:auto;
-     /* inter-word;*/
-    }
 .link-paper a{ color:#aaa; 
     } 
