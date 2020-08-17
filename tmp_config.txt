@@ -1,4 +1,0 @@
-baseurl: "/facial-animation-data" # the subpath of your site, e.g. /blog
-url: "https://elo-nsrb.github.io"
-title: Intuitive Facial Animation Editing based on a Generative RNN Framework
-
