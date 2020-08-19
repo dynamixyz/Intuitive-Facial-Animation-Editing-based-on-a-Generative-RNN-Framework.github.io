@@ -27,6 +27,7 @@ p {
       text-justify:auto;
      /* inter-word;*/
     }
+a { color:black}
 
 /*
  * comment
@@ -62,3 +63,13 @@ p {
 
 .link-paper a{ color:#aaa; 
     } 
+
+.author{
+    padding: 40px}
+
+.authors_v2{
+            text-decoration:underline;
+            color:black
+            }
+.authors-list{
+    text-align:center}
